@@ -1,0 +1,6 @@
+Step 1: You must download level.
+Step 2: You must have winrar because win explorer won't open it
+Step 3: You must create folder with name of level "KuKeKaLVL1" this is for level 1 but for level 2 you must create the same folder but change from 1 to 2
+Step 4: Extract files of level to this folder
+Step 5: Run game by command in launcher!
+Step 6: Enjoy!
